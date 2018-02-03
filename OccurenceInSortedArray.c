@@ -1,4 +1,7 @@
 #include <stdio.h>
+//
+// Find first and last occurence of an element in the sorted array which has duplicates
+//
 
 //
 // Binary Search
